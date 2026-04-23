@@ -52,31 +52,7 @@ educatori-titularizare-literatura-romana/
 
 ---
 
-## 🚀 Instalare si utilizare
 
-### Varianta 1 — Deschide local
-
-```bash
-git clone https://github.com/USERNAME/educatori-titularizare-literatura-romana.git
-cd educatori-titularizare-literatura-romana
-# Deschide index.html in browser
-open index.html          # macOS
-start index.html         # Windows
-xdg-open index.html      # Linux
-```
-
-### Varianta 2 — GitHub Pages
-
-1. Fork sau upload acest repository
-2. Mergi la **Settings → Pages**
-3. Selecteaza `Branch: main` si folder `/ (root)`
-4. Site-ul va fi disponibil la `https://username.github.io/educatori-titularizare-literatura-romana`
-
-### Varianta 3 — Netlify (drag & drop)
-
-1. Mergi pe [netlify.com/drop](https://app.netlify.com/drop)
-2. Trage folderul proiectului in pagina
-3. Site-ul este live instant
 
 ---
 
@@ -116,15 +92,6 @@ xdg-open index.html      # Linux
 - **Fonturi:** Playfair Display (titluri serif), Lora (body), DM Sans (UI)
 - **Animatii:** CSS keyframes + Intersection Observer pentru reveal la scroll
 - **Layout:** CSS Grid + Flexbox, breakpoints la 900px si 600px
-
----
-
-## 📬 Contact
-
-Pentru achizitionarea ghidului PDF sau pentru colaborari:
-
-- **WhatsApp:** [0753 679 091](https://wa.me/40753679091)
-- **Autor:** Carmen C
 
 ---
 
