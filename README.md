@@ -1,105 +1,106 @@
-# 📚 Educatori Titularizare — Literatura Romana 2026
+# 📚 Educators Titularization — Romanian Literature 2026
 
-> Landing page profesional pentru ghidul complet de pregatire la examenul de titularizare si definitivat — Literatura Romana 2026.
+> Professional landing page for the complete preparation guide for the titularization and final exam — Romanian Literature 2026.
 
 ![Status](https://img.shields.io/badge/status-activ-brightgreen)
-![Licenta](https://img.shields.io/badge/licenta-MIT-blue)
+![License](https://img.shields.io/badge/licenta-MIT-blue)
 ![HTML](https://img.shields.io/badge/tehnologie-HTML%20%2F%20CSS%20%2F%20JS-orange)
-![An](https://img.shields.io/badge/editie-2026-teal)
+![Year](https://img.shields.io/badge/editie-2026-teal)
 
 ---
 
 ## 🌐 Demo
 
-Deschide fisierul `index.html` direct in browser sau gazduieste-l pe GitHub Pages, Netlify sau orice server static.
+Open the `index.html` file directly in your browser or host it on GitHub Pages, Netlify or any static server.
 
 ---
 
-## 📖 Despre proiect
+## 📖 About the project
 
-Acesta este site-ul de prezentare (landing page) pentru **Ghidul complet de Literatura Romana — Titularizare 2026**, creat de **Carmen C**.
+This is the presentation site (landing page) for **The Complete Guide to Romanian Literature — Titularization 2026**, created by **Carmen C**.
 
-Ghidul acopera toate operele din programa nationala si include:
+The guide covers all works in the national curriculum and includes:
 
-- **Proza narativa** — Basm cult, Schita, Povestire, Nuvela, Roman
-- **Poezia lirica** — Romantism, Pastel, Fabula, Modernism, Neomodernism
-- **Dramaturgie** — Comedia caragialiana
-- **Modele de argumentare** — Schita, Nuvela, Gen dramatic, Gen epic, Caracterizare personaj
+- **Narrative prose** — Cult fairy tale, Sketch, Story, Short story, Novel
+
+- **Lyrical poetry** — Romanticism, Pastel, Fable, Modernism, Neomodernism
+
+- **Drama** — Caragialian comedy
+
+- **Argument models** — Sketch, Short story, Dramatic genre, Epic genre, Character characterization
 
 ---
 
-## 🗂 Structura proiectului
+## 🗂 Project structure
 
 ```
 educatori-titularizare-literatura-romana/
 │
-├── index.html          # Landing page principal (single-file, zero dependente)
-├── README.md           # Documentatie proiect
-└── LICENSE             # Licenta MIT
+├── index.html # Main landing page (single-file, zero dependencies)
+├── README.md # Project documentation
+└── LICENSE # MIT license
 ```
 
 ---
 
-## ✨ Functionalitati
+## ✨ Features
 
-- Design **editorial-literar** cu paleta teal profund + auriu + crem
-- **Animatii de scroll** (Intersection Observer API, CSS transitions)
-- **Complet responsive** — optimizat pentru mobil, tableta si desktop
-- **Zero dependente externe** — un singur fisier HTML, fonturi din Google Fonts
-- Buton **WhatsApp direct** cu mesaj precompletat
-- Mockup 3D al cartii cu animatie hover
-- Sectiuni: Hero, Strip, Continut, Beneficii, Autori, Modele, CTA, Footer
-
----
-
-
+- **Editorial-literary** design with a deep teal + gold + cream palette
+- **Scroll animations** (Intersection Observer API, CSS transitions)
+- **Fully responsive** — optimized for mobile, tablet and desktop
+- **Zero external dependencies** — a single HTML file, fonts from Google Fonts
+- **WhatsApp direct** button with pre-filled message
+- 3D book mockup with hover animation
+- Sections: Hero, Strip, Content, Benefits, Authors, Models, CTA, Footer
 
 ---
 
-## 📚 Operele acoperite
+---
 
-| Specia | Opera | Autor | Curent |
-|--------|-------|-------|--------|
-| Basm cult | Povestea lui Harap-Alb | Ion Creanga | Romantism |
-| Schita | D-l Goe / Vizita | I.L. Caragiale | Realism |
-| Povestire | Hanu Ancutei | Mihail Sadoveanu | Realism |
-| Nuvela | Moara cu Noroc | Ioan Slavici | Realism |
-| Roman | Ultima Noapte de Dragoste... | Camil Petrescu | Modernism |
-| Poezie romantica | Luceafarul | Mihai Eminescu | Romantism |
-| Pastel | Mezul Iernii | Vasile Alecsandri | Clasicism |
-| Fabula | Cainele si Catelul | Gr. Alexandrescu | Clasicism |
-| Arta poetica | Testament | Tudor Arghezi | Modernism interbelic |
-| Arta poetica erotica | In dulcele stil clasic | Nichita Stanescu | Neomodernism |
-| Comedia | O Scrisoare Pierduta | I.L. Caragiale | Realism |
+## 📚 Works covered
+
+| Species | Work | Author | Current |
+|--------|-------|-------|-------|
+| Cult fairy tale | The Story of Harap-Alb | Ion Creanga | Romanticism |
+| Sketch | Mr. Goe / Visit | I.L. Caragiale | Realism |
+| Story | Hanu Ancutei | Mihail Sadoveanu | Realism |
+| Short story | Moara cu Noroc | Ioan Slavici | Realism |
+| Novel | The Last Night of Love... | Camil Petrescu | Modernism |
+| Romantic Poetry | Luceafarul | Mihai Eminescu | Romanticism |
+| Pastel | Winter Mezul | Vasile Alecsandri | Classicism |
+| Fable | The Dog and the Puppy | Gr. Alexandrescu | Classicism |
+| Poetic Art | Testament | Tudor Arghezi | Interwar Modernism |
+| Erotic Poetic Art | In the Sweet Classical Style | Nichita Stanescu | Neomodernism |
+| Comedy | A Lost Letter | I.L. Caragiale | Realism |
 
 ---
 
-## 🛠 Tehnologii folosite
+## 🛠 Technologies Used
 
-| Tehnologie | Utilizare |
-|-----------|-----------|
-| HTML5 | Structura semantica |
-| CSS3 | Design, animatii, responsive layout |
-| JavaScript (Vanilla) | Scroll animations, nav behavior |
-| Google Fonts | Playfair Display + Lora (tipografie) |
-| WhatsApp API | Buton contact direct |
+| Technology | Usage |
+|------------|------------|
+| HTML5 | Semantic Structure |
+| CSS3 | Design, Animations, Responsive Layout |
+| JavaScript (Vanilla) | Scroll Animations, Nav Behavior |
+| Google Fonts | Playfair Display + Lora (typography) |
+| WhatsApp API | Direct Contact Button |
 
 ---
 
 ## 📐 Design System
 
-- **Culori principale:** `#004D40` (teal profund), `#C8960C` (auriu), `#FDFAF4` (crem)
-- **Fonturi:** Playfair Display (titluri serif), Lora (body), DM Sans (UI)
-- **Animatii:** CSS keyframes + Intersection Observer pentru reveal la scroll
-- **Layout:** CSS Grid + Flexbox, breakpoints la 900px si 600px
+- **Main colors:** `#004D40` (deep teal), `#C8960C` (gold), `#FDFAF4` (cream)
+- **Fonts:** Playfair Display (serif titles), Lora (body), DM Sans (UI)
+- **Animations:** CSS keyframes + Intersection Observer for reveal on scroll
+- **Layout:** CSS Grid + Flexbox, breakpoints at 900px and 600px
 
 ---
 
-## 📄 Licenta
+## 📄 License
 
-Codul sursa al acestui landing page este distribuit sub licenta **MIT**.
+The source code of this landing page is distributed under the **MIT** license.
 
-Continutul educational (ghidul PDF, schemele, modelele de argumentare) este proprietatea intelectuala a autorului **Carmen C** si nu este acoperit de licenta MIT.
+The educational content (PDF guide, diagrams, argument models) is the intellectual property of the author **Carmen C** and is not covered by the MIT license.
 
 ```
 MIT License
